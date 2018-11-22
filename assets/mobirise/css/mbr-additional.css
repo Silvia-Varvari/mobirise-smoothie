@@ -44,10 +44,10 @@ body {
 }
 .display-5 {
   font-family: 'Neucha', handwriting;
-  font-size: 4rem;
+  font-size: 2.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 4rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1773,20 +1773,20 @@ body {
   background-image: url("../../../assets/images/smoothies-hero-1920x1079.jpg");
 }
 .cid-r66d6zrKwq {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-r66d6zrKwq .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #a287ca;
+  color: #a287ca;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-r66d6zrKwq .section-text {
   padding: 2rem 0;
-  color: #7f1933;
+  color: #a287ca;
   text-align: center;
 }
 .cid-r66d6zrKwq .inner-container {
@@ -2070,19 +2070,20 @@ body {
   }
 }
 .cid-r66luKRLef {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-r66luKRLef .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #ff0099;
+  color: #ff0099;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-r66luKRLef .section-text {
   padding: 2rem 0;
+  color: #ff0099;
 }
 .cid-r66luKRLef .inner-container {
   margin: 0 auto;
@@ -2119,8 +2120,8 @@ body {
   display: none;
 }
 .cid-r66marDAeF {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-r66marDAeF .mbr-section-subtitle {
@@ -2216,6 +2217,9 @@ body {
   .cid-r66marDAeF .mbr-subscribe > * {
     margin: 0 0.5rem;
   }
+}
+.cid-r66marDAeF DIV {
+  color: #733fc0;
 }
 .cid-r66lMt2qJZ {
   padding-top: 45px;
